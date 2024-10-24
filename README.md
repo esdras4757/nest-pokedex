@@ -16,5 +16,5 @@ yarn install
 
 4. Levantar DB
 ```
-docker-compose up-d
+docker-compose up -d
 ```
